@@ -1,3 +1,3 @@
 console.log(123);
-alert('hello');
+alert('v2');
 console.log('add file from v2');
